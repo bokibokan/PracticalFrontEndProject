@@ -514,7 +514,7 @@ header {
     right: 0;
     height: 2px;
     width: 100%;
-    background: #2870db;
+    background: #fff;
     -webkit-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
