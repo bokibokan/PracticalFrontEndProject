@@ -19,4 +19,4 @@
 * Tools: Visual Studio Code.
 
 # Licence
-* MIT Licence
+* [Mit License](https://github.com/bokibokan/PracticalFrontEndProject/blob/master/LICENSE)
